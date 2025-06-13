@@ -33,6 +33,7 @@ Borsa Oyunu, kullanıcıların sanal borsa dünyasında hisse alım-satımı yap
 ### **Android Cihazlar için Kurulum**
 1. **APK Dosyasını İndirme:**
    - Borsa Oyunu APK dosyasını güvenilir bir kaynaktan indirin.
+   -ilk indirmeye başladığında güvenli tarama istenecek lütfen uygulamayı tarayın 
 
 2. **Bilinmeyen Kaynaklar Ayarı:**
    - Telefonunuzda "Ayarlar > Güvenlik > Bilinmeyen Kaynaklar" seçeneğini etkinleştirin.
